@@ -16,7 +16,7 @@
 
 Schema guida
 
-1. [Progettazione concettuale](https://www.notion.so/1-Progettazione-concettuale-3c4546b550a14cbb9234df96908e5411?pvs=21)
+1. [Progettazione concettuale](/Exam/Progettazione_concettuale.md)
     1. Requisiti iniziali (testo integrato con osservazioni fatte a partire dai file forniti)
     2. Glossario dei termini
     3. Requisiti riscritti
@@ -31,7 +31,7 @@ Come auto-valutare il proprio schema E-R (+ business rules):
 - Minimalità: Sono presenti ridondanze indesiderate? È possibile rappresentare le
 stesse informazioni in modo più semplice.
 
-1. [Progettazione logica](https://www.notion.so2-Progettazione-logica-34f1fe676fa247c0a47575ad5ee789bd?pvs=21)
+1. [Progettazione logica](/Exam/Progettazione_logica.md)
     1. Compilare una tavola dei volumi (motivare le scelte effettuate)
     2. Compilare una tavola delle operazioni (basandosi anche sui requisiti, includere le operazioni più rilevanti e le scelte effettuate)
     3. Ristrutturazione dello schema E-R
